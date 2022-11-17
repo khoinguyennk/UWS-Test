@@ -4,3 +4,6 @@ Line 3 of base code
 Line 1 of visual code
 Line 2 of visual code
 Line 3 of visual code
+Line 4 online
+line 5 online
+line 6 online
